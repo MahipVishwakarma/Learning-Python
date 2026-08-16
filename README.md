@@ -10,6 +10,7 @@ I'm learning Python from Dr. Angela Yu's course on Udemy. This repo is where I'l
 | [Caesar_Cipher.py](./Caesar_Cipher.py) | Encrypts and decrypts text using the Caesar cipher technique |
 | [Hangman.py](./Hangman.py) | Classic word-guessing game played in the console |
 | [Number_Guesser.py](./Number_Guesser.py) | Guess-the-number game with limited attempts |
+| [Higher_Or_Lower.py](./Higher_Or_Lower.py) | Guess which celebrity has more followers on Instagram |
 
 ## About
 
