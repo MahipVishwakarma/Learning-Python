@@ -12,6 +12,7 @@ I'm learning Python from Dr. Angela Yu's course on Udemy. This repo is where I'l
 | [Number_Guesser.py](./Number_Guesser.py) | Guess-the-number game with limited attempts |
 | [Higher_Or_Lower.py](./Higher_Or_Lower.py) | Guess which celebrity has more followers on Instagram |
 | [CoffeeMaker.py](./CoffeeMaker.py) | Enjoy a cup of coffee! |
+| [Quiz Game (OOP)](./Quiz%20Game%20(OOP)) | True/False trivia quiz game built using OOP |
 
 ## About
 
