@@ -1,4 +1,4 @@
-# Python-Beginner
+# Learning Python
 
 I'm learning Python from Dr. Angela Yu's course on Udemy. This repo is where I'll post the tougher projects I've built and understood well along the way.
 
