@@ -16,6 +16,7 @@ I'm learning Python from Dr. Angela Yu's course on Udemy. This repo is where I'l
 | [Race_Betting_Game.py](./Race_Betting_Game.py) | Bet on a turtle and watch six racers sprint to the finish line |
 | [Pong Game](./Pong%20Game) | Classic Pong game built with multiple classes |
 | [Turtle Crossing Game](./Turtle%20Crossing%20Game) | Dodge oncoming cars and guide your turtle safely across the road |
+| [US States Game](./US%20States%20Game) | Guess each and every state in the US while keeping track of your score! |
 
 ## About
 
