@@ -19,6 +19,7 @@ I'm learning Python from Dr. Angela Yu's course on Udemy. This repo is where I'l
 | [US States Game](./US%20States%20Game) | Guess each and every state in the US while keeping track of your score! |
 | [Mile_To_Km_Converter](./Mile_To_Km_Converter.py) | Helps you calculate a distance in Kilometers if you have the value in Miles |
 | [Password Manager Project](./Password%20Manager%20Project) | Save your email and password safely on your own device |
+| [FLASH CARD PROJECT](./FLASH%20CARD%20PROJECT) | Learn the vocabulary of any language using flash cards |
 
 ## About
 
